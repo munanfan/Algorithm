@@ -1,4 +1,4 @@
-package Algo;
+package Algo.AboutSort;
 
 import MyException.IndexOutOfRangeException;
 

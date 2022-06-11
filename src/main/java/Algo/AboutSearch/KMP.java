@@ -1,4 +1,4 @@
-package Algo;
+package Algo.AboutSearch;
 
 /**
  * KMP算法
